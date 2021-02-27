@@ -1,5 +1,5 @@
 # Fibbonacci
- Basic Fibbonaci Calculation
+ Basic Fibbonacci Calculation
 
  This codes has basic Fibbonaci Calculation and nothing specific. It is created for beginner python users.
 
